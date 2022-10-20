@@ -85,7 +85,7 @@ const Navbar = () => {
       <StyledToolbar>
         <Code sx={{ display: { xs: "block", sm: "none" } }} />
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
-          MUI DEV
+          MUI 5 Practice
         </Typography>
         <SearchBox>
           <InputBase placeholder="search..." />
